@@ -1,5 +1,8 @@
 # MI5 Coding Challenge Solution
-This is my solution to the MI5 coding challenge. It is written in Ruby using the 'RMagick' image library.
+
+<img src="./puzzle.png">
+
+This is my solution to the MI5 coding challenge. It is written in Ruby using the 'RMagick' image library. The puzzle involves finding a message in the image included above.
 
 It is run with the name of the puzzle image as an argument.
 
